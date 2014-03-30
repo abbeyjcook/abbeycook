@@ -67,8 +67,4 @@
         <loc>http://localhost:4000/articles/readability-post/</loc>
     </url>
     
-    <url>
-        <loc>http://localhost:4000/articles/sample-post/</loc>
-    </url>
-    
 </urlset>
